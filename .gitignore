@@ -5,3 +5,4 @@ env/
 .vscode/
 .DS_Store
 *.log
+.vercel
