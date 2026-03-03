@@ -7,3 +7,4 @@ werkzeug
 jinja2
 itsdangerous
 click
+requests
